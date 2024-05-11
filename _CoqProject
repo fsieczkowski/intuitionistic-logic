@@ -1,0 +1,6 @@
+Syntax.v
+Deduction.v
+Heyting.v
+Interp.v
+Soundness.v
+Completeness.v
